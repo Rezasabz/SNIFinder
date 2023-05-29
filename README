@@ -1,0 +1,1 @@
+A simple tool to detect the version of TLS and also choose a clean SNI at random.
